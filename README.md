@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Python Developer
 -----------------------
 
-Devops since before devops was a thing, I've worked in various-sized groups in multiple industries, from Telecommuncations to MSP's.
+Devops since before devops was a thing, I've worked in various-sized groups in multiple industries, from Telecommuncations to MSP's.  I have a need to solve problems in an elegant way.
 
 * 🌍  I'm based in Houston, Texas
 * ✉️  You can contact me at [stevehillin@gmail.com](mailto:stevehillin@gmail.com)
