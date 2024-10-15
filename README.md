@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steve Hillin
 ====================================================================================================================================
 
-Senior Python Developer
+Director of Engineering
 -----------------------
 
 Devops since before devops was a thing, I've worked in various-sized groups in multiple industries, from Telecommuncations to MSP's.  I have a need to solve problems in an elegant way.
