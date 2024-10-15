@@ -1,0 +1,152 @@
+{
+    "user": {
+        "name": "steve hillin",
+        "location": {
+            "city": "bastrop",
+            "state": "tx"
+        },
+        "contact": {
+            "phone": "+12819875791",
+            "email": "stevehillin@gmail.com",
+            "linkedin": "https://linkedin.com/in/stevehillin"
+        },
+        "about": {
+            "sme": [
+                "software development",
+                "team management",
+                "root cause analysis"
+            ],
+            "motivations": [
+                "problem-solving",
+                "automating tasks",
+                "future-proofing",
+                "business optimization"
+            ]
+        }
+    },
+    "sections": {
+        "experience": [
+            {
+                "company": "breach secure now",
+                "positions": [
+                    "director of engineering",
+                    "senior python developer"
+                ],
+                "start": "2023-11",
+                "end": null,
+                "description": "Work on new products, product enhancements, and bug fixes in a Scrum environment.  Focused on backend API development in a stateless & decoupled web application.  Sit in on product inception meetings to provide insight into development requirements and general, UX, security, and process optimizations.  Promoted to Director role to oversee developer team.  Function as Solutions Architect for product initiatives.",
+                "tech": [
+                    "python",
+                    "python flask",
+                    "zappa",
+                    "github",
+                    "aws [boto3|ses|sqs|rds|lambda]"
+                ]
+            },
+            {
+                "company": "britecity",
+                "positions": [
+                    "security & automation engineer"
+                ],
+                "start": "2021-06",
+                "end": "2023-11",
+                "description": "Hired to specifically automate billing to identify unbilled and underbilled services; increased monthly recurring billing more than 15% via automating 95% of product billing.  Built an integration to leverage ChatGPT to help solve IT issues, augmenting technical staff.  Built internal security API via Python FastAPI to ingest webhooks to inspect passwords and check against HaveIBeenPwned hashed passwords, then report the bad password to the engineer or customer who set it.  Replaced built-in Connectwise Manage plugin for Automate that ran more efficiently and effectively to sync workstation counts to Manage for billing.  Automated the backup and retrieval of ITGlue backups for offsite storage.  Leveraged Connectwise Manage API to produce quick reports and data much faster than existing manual processes.",
+                "tech": [
+                    "python",
+                    "python flask",
+                    "python fastapi",
+                    "github",
+                    "rest",
+                    "bash",
+                    "mysql",
+                    "azure",
+                    "connectwise manage",
+                    "debian",
+                    "docker",
+                    "immy.bot",
+                    "nilear",
+                    "aws [boto3|ses|sqs|rds|lambda]"
+                ]
+            },
+            {
+                "company": "ps lightwave",
+                "positions": [
+                    "senior voip engineer",
+                    "innovation engineer"
+                ],
+                "start": "2015-07",
+                "end": "2021-06",
+                "description": "Designed, managed, and maintained hosted FreePBX environments and Metaswitch for MSPs and direct customers.  Built many custom integrations between PBXs and various other software packages.",
+                "tech": [
+                    "freepbx",
+                    "asterisk",
+                    "metaswitch",
+                    "opensips",
+                    "cgrates",
+                    "sip/rtp/rtcp",
+                    "freeswitch",
+                    "aws [boto3|tts|stt|polly]",
+                    "homer",
+                    "queuemetrics",
+                    "poly (formerly polycom)",
+                    "yeahlink",
+                    "github",
+                    "wireshark",
+                    "pfsense",
+                    "codeigniter",
+                    "zabbix",
+                    "nagios",
+                    "hypervisor [vmware|xen]"
+                ],
+                "events": [
+                    {
+                        "date": "2020-08",
+                        "event": "company virtualtone acquired by ps lightwave"
+                    }
+                ]
+            },
+            {
+                "company": "ppl motorhomes",
+                "positions": [
+                    "network administrator"
+                ],
+                "start": "2013-01",
+                "end": "2015-07",
+                "description": "Managed website LAMP stack as well as internal IT needs.  Automated deployments that included RemoteApp for legacy applications to Linux thin clients.  Built a custom CDN process that automatically resized images upon upload for web and email.  Migrated servers to local datacenter and centralized the network for all three geographically dispersed locations.  Rebuilt AD environment to adhere to best practices.  Deployed FreePBX to all locations with extension-to-extension dialing between each location, saving on long distance costs.",
+                "tech": [
+                    "lamp",
+                    "asterisk",
+                    "freepbx",
+                    "haproxy",
+                    "active directory",
+                    "hypervisor [vmware|xen]"
+                ]
+            },
+            {
+                "company": "ipdatatel",
+                "positions": [
+                    "network administrator"
+                ],
+                "start": "2010-05",
+                "end": "2011-07",
+                "description": "Employee #4 at startup security panel integrator.  Managed PBX, routing and switching, and LAMP stack.  Engineered test apparatus for circuit boards via bed-of-nails that streamlined testing of devices.  Programmed various alarm panels and provided support to in-the-field technicians.",
+                "tech": [
+                    "lamp",
+                    "asterisk",
+                    "hypervisor [vmware|xen]"
+                ]
+            }
+        ],
+        "education": {
+            "start": "1997-08",
+            "end": "1999-06",
+            "school": "ranger college",
+            "degree": "as",
+            "discipline": "computer information systems",
+            "notes": [
+                "Tested out of all technical classes except one, which didn’t have a test available at that time.",
+                "Turned down an offer to become an instructor but did teach continuing education classes to senior citizens."
+            ]
+        }
+    }
+}
