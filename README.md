@@ -6,7 +6,7 @@ Senior Python Developer
 
 Devops since before devops was a thing, I've worked in various-sized groups in multiple industries, from Telecommuncations to MSP's.  I have a need to solve problems in an elegant way.
 
-* 🌍  I'm based in Houston, Texas
+* 🌍  I'm based in Bastrop, Texas
 * ✉️  You can contact me at [stevehillin@gmail.com](mailto:stevehillin@gmail.com)
 
 ### Skills
