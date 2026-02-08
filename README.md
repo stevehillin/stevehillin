@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steve Hillin
 ====================================================================================================================================
 
-Director of Engineering
+Builder of Cool Things
 -----------------------
 
 Devops since before devops was a thing, I've worked in various-sized groups in multiple industries, from Telecommuncations to MSP's.  I have a need to solve problems in an elegant way.
 
-* 🌍  I'm based in Bastrop, Texas
+* 🌍  I'm based in the Austin, Texas Metro area
 * ✉️  You can contact me at [stevehillin@gmail.com](mailto:stevehillin@gmail.com)
 
 ### Skills
