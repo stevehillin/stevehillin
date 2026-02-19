@@ -1,152 +1,156 @@
 {
-    "user": {
-        "name": "steve hillin",
-        "location": {
-            "city": "bastrop",
-            "state": "tx"
+    "name": "Steve Hillin",
+    "email": "stevehillin@gmail.com",
+    "phone": "+12819875791",
+    "linkedin": "https://linkedin.com/in/stevehillin",
+    "core_competencies": [
+        "Strategic problem-solving with big-picture focus",
+        "Root-cause analysis through insightful questioning",
+        "Driving Excellence & Mentorship"
+    ],
+    "experience": [
+        {
+            "company": "Breach Secure Now",
+            "roles": [
+                {
+                    "title": "Director of Engineering",
+                    "start": "2024-08",
+                    "end": "2026-01",
+                    "highlights": [
+                        "Lead and guide a team of frontend, backend, and full-stack software developers to meet deadlines and requirements of a cybersecurity-focused training B2B SaaS platform.",
+                        "Manage code review process and Jira workflows.",
+                        "Optimize SQL queries and prioritize legacy bug fixes where workarounds became the norm.",
+                        "Work with Product to optimize new initiatives and align with technical realities within the platform.",
+                        "Facilitate needs related to achieving SOC 2 compliance."
+                    ],
+                    "skills": ["Leadership", "Management", "Solutions Architect", "Jira", "HR"]
+                },
+                {
+                    "title": "Senior Python Developer",
+                    "start": "2023-11",
+                    "end": "2024-08",
+                    "highlights": [
+                        "Using Python Flask, maintain and extend backend REST APIs in a decoupled web application, ensuring timely responses, async tasks, and optimized SQL queries to MySQL RDS.",
+                        "Implement various repos for different business needs, including reporting analytics and application-focused feature delivery."
+                    ],
+                    "skills": ["AWS EC2", "AWS SES", "AWS SQS", "AWS Lambda", "AWS RDS", "AWS Cognito", "Python Flask", "REST", "Git", "Jira", "Terraform", "BASH", "Linux", "OpenAI", "Claude"]
+                }
+            ]
         },
-        "contact": {
-            "phone": "+12819875791",
-            "email": "stevehillin@gmail.com",
-            "linkedin": "https://linkedin.com/in/stevehillin"
+        {
+            "company": "BRITECITY",
+            "roles": [
+                {
+                    "title": "Security & Automation Engineer",
+                    "start": "2021-06",
+                    "end": "2023-11",
+                    "highlights": [
+                        "Use Python to automate multiple tasks, from billing automations (via vendor APIs) to internal tooling for a Managed Service Provider.",
+                        "Build custom reporting by capturing point-in-time data not exposed by Connectwise Manage to help with revenue projection and trend analysis.",
+                        "Built integrated support AI that ingested customer requests, retrieved user-scoped information, then prompted ChatGPT to suggest remediation steps. Info automatically added as an internal note so support agents could only see. Included cost data for value evaluation."
+                    ],
+                    "skills": ["Python Flask", "FastAPI", "REST", "Git", "Connectwise Manage", "Connectwise Automate", "MySQL", "OpenAI", "BASH", "Linux", "Azure", "Nginx", "PowerShell"]
+                }
+            ]
         },
-        "about": {
-            "sme": [
-                "software development",
-                "team management",
-                "root cause analysis"
-            ],
-            "motivations": [
-                "problem-solving",
-                "automating tasks",
-                "future-proofing",
-                "business optimization"
+        {
+            "company": "PS Lightwave",
+            "roles": [
+                {
+                    "title": "Senior VoIP Engineer",
+                    "start": "2020-08",
+                    "end": "2021-06",
+                    "highlights": [
+                        "Support and maintain various Class 4 and Class 5 telecommunications platforms for regional fiber ISP.",
+                        "Build various automations around operations, billing, and LCR.",
+                        "Upskill support agents on supporting VoIP customers."
+                    ],
+                    "skills": ["Asterisk", "FreePBX", "FreeSwitch", "MetaSwitch", "OpenSIPS", "CGRateS", "Python", "MySQL", "Redis", "NGINX", "Git", "BASH", "Linux", "Juniper", "Cisco", "Zabbix"]
+                }
+            ]
+        },
+        {
+            "company": "Virtualtone",
+            "roles": [
+                {
+                    "title": "Senior VoIP Engineer / Lead Developer",
+                    "start": "2015-07",
+                    "end": "2020-08",
+                    "highlights": [
+                        "Support and maintain 180+ FreePBX isolated instances and SIP routing for various customer sizes, from SMB to call centers.",
+                        "Build various automations and integrations, such as PCI-compliant call recording triggers, billing, and call center automation & reporting.",
+                        "Built TTS automations for individual customers to automate information gathering / feedback with on-the-fly audio generation and caching."
+                    ],
+                    "skills": ["Asterisk", "FreePBX", "OpenSIPS", "CGRateS", "MySQL", "Python", "PHP", "Linux", "FreeBSD", "Git", "Cisco", "QueueMetrics", "Fop2", "Nagios", "Apache"]
+                }
+            ]
+        },
+        {
+            "company": "PPL",
+            "roles": [
+                {
+                    "title": "Network / Systems Administrator",
+                    "start": "2013-01",
+                    "end": "2015-07",
+                    "highlights": [
+                        "LAMP e-commerce platform management, including outbound email campaigns and custom CDN.",
+                        "Thin-client management for cost optimizations, using PXE with custom BASH node monitoring and centralized app deployments / upgrades.",
+                        "Plan and implement move from on-prem to colo, implementing MPLS between various physical stores and implementing redundant DCs and separating application server from AD."
+                    ],
+                    "skills": ["CodeIgniter", "MySQL", "FreePBX", "HAProxy", "Active Directory", "Linux", "BASH", "Cisco", "Xen", "Nagios", "Apache"]
+                }
+            ]
+        },
+        {
+            "company": "IpDataTel",
+            "roles": [
+                {
+                    "title": "Systems Administrator",
+                    "start": "2010-05",
+                    "end": "2011-07",
+                    "highlights": [
+                        "Manage various aspects of physical security startup, including Asterisk, DNS, MySQL, microservices, and alarm panel testing procedures.",
+                        "Handle customer support and onboarding.",
+                        "Build testing protocols and fixtures for custom PCB embedded systems."
+                    ],
+                    "skills": ["Asterisk", "MySQL", "PHP", "Cisco", "DNS", "Apache"]
+                }
             ]
         }
-    },
-    "sections": {
-        "experience": [
-            {
-                "company": "breach secure now",
-                "positions": [
-                    "director of engineering",
-                    "senior python developer"
-                ],
-                "start": "2023-11",
-                "end": null,
-                "description": "Work on new products, product enhancements, and bug fixes in a Scrum environment.  Focused on backend API development in a stateless & decoupled web application.  Sit in on product inception meetings to provide insight into development requirements and general, UX, security, and process optimizations.  Promoted to Director role to oversee developer team.  Function as Solutions Architect for product initiatives.",
-                "tech": [
-                    "python",
-                    "python flask",
-                    "zappa",
-                    "github",
-                    "aws [boto3|ses|sqs|rds|lambda]"
-                ]
-            },
-            {
-                "company": "britecity",
-                "positions": [
-                    "security & automation engineer"
-                ],
-                "start": "2021-06",
-                "end": "2023-11",
-                "description": "Hired to specifically automate billing to identify unbilled and underbilled services; increased monthly recurring billing more than 15% via automating 95% of product billing.  Built an integration to leverage ChatGPT to help solve IT issues, augmenting technical staff.  Built internal security API via Python FastAPI to ingest webhooks to inspect passwords and check against HaveIBeenPwned hashed passwords, then report the bad password to the engineer or customer who set it.  Replaced built-in Connectwise Manage plugin for Automate that ran more efficiently and effectively to sync workstation counts to Manage for billing.  Automated the backup and retrieval of ITGlue backups for offsite storage.  Leveraged Connectwise Manage API to produce quick reports and data much faster than existing manual processes.",
-                "tech": [
-                    "python",
-                    "python flask",
-                    "python fastapi",
-                    "github",
-                    "rest",
-                    "bash",
-                    "mysql",
-                    "azure",
-                    "connectwise manage",
-                    "debian",
-                    "docker",
-                    "immy.bot",
-                    "nilear",
-                    "aws [boto3|ses|sqs|rds|lambda]"
-                ]
-            },
-            {
-                "company": "ps lightwave",
-                "positions": [
-                    "senior voip engineer",
-                    "innovation engineer"
-                ],
-                "start": "2015-07",
-                "end": "2021-06",
-                "description": "Designed, managed, and maintained hosted FreePBX environments and Metaswitch for MSPs and direct customers.  Built many custom integrations between PBXs and various other software packages.",
-                "tech": [
-                    "freepbx",
-                    "asterisk",
-                    "metaswitch",
-                    "opensips",
-                    "cgrates",
-                    "sip/rtp/rtcp",
-                    "freeswitch",
-                    "aws [boto3|tts|stt|polly]",
-                    "homer",
-                    "queuemetrics",
-                    "poly (formerly polycom)",
-                    "yeahlink",
-                    "github",
-                    "wireshark",
-                    "pfsense",
-                    "codeigniter",
-                    "zabbix",
-                    "nagios",
-                    "hypervisor [vmware|xen]"
-                ],
-                "events": [
-                    {
-                        "date": "2020-08",
-                        "event": "company virtualtone acquired by ps lightwave"
-                    }
-                ]
-            },
-            {
-                "company": "ppl motorhomes",
-                "positions": [
-                    "network administrator"
-                ],
-                "start": "2013-01",
-                "end": "2015-07",
-                "description": "Managed website LAMP stack as well as internal IT needs.  Automated deployments that included RemoteApp for legacy applications to Linux thin clients.  Built a custom CDN process that automatically resized images upon upload for web and email.  Migrated servers to local datacenter and centralized the network for all three geographically dispersed locations.  Rebuilt AD environment to adhere to best practices.  Deployed FreePBX to all locations with extension-to-extension dialing between each location, saving on long distance costs.",
-                "tech": [
-                    "lamp",
-                    "asterisk",
-                    "freepbx",
-                    "haproxy",
-                    "active directory",
-                    "hypervisor [vmware|xen]"
-                ]
-            },
-            {
-                "company": "ipdatatel",
-                "positions": [
-                    "network administrator"
-                ],
-                "start": "2010-05",
-                "end": "2011-07",
-                "description": "Employee #4 at startup security panel integrator.  Managed PBX, routing and switching, and LAMP stack.  Engineered test apparatus for circuit boards via bed-of-nails that streamlined testing of devices.  Programmed various alarm panels and provided support to in-the-field technicians.",
-                "tech": [
-                    "lamp",
-                    "asterisk",
-                    "hypervisor [vmware|xen]"
-                ]
-            }
-        ],
-        "education": {
+    ],
+    "contracting": [
+        {
+            "period": "2025-2026",
+            "description": "Assist a B2B / B2C education business with understanding their business model, known constraints, and what changes actually move the needle. After building a reporting dashboard, began targeted PPC that saw double-digit increase in overall sales with the largest month on record happening 90 days after initiation."
+        },
+        {
+            "period": "2024",
+            "description": "Engineer a responsive, mobile-first web middleware application framework to marry a mapping software to a CRM with Redis for blazing-fast data queries, GPS functions, and enhanced communications for a fiber optic organization. The primary KPI (Mean Time to Repair) for fiber outages was reduced by more than 80%."
+        },
+        {
+            "period": "2021-2022",
+            "description": "Design and implement global PBX services for an international physical security company, including hosting selection, routing, and number management. Train in-house staff on management and support operations."
+        },
+        {
+            "period": "2016-2017",
+            "description": "Build and manage custom CRM solutions to minimize human error and maximize profits for a particular client type, including billing management, reporting, and automation. This removed approximately 80 hours of manual processes, allowing the company to focus their efforts on customer service and sales."
+        },
+        {
+            "period": "2012-2015",
+            "description": "Re-engineer hosting environment for large online classified ads website that was acquired by Hearst Enterprises."
+        }
+    ],
+    "education": [
+        {
+            "degree": "AS, Computer Information Systems",
+            "institution": "Ranger College",
             "start": "1997-08",
             "end": "1999-06",
-            "school": "ranger college",
-            "degree": "as",
-            "discipline": "computer information systems",
             "notes": [
-                "Tested out of all technical classes except one, which didn’t have a test available at that time.",
-                "Turned down an offer to become an instructor but did teach continuing education classes to senior citizens."
+                "Accelerated through the program by testing out of nearly all technical courses.",
+                "Declined an instructor role but contributed to the community by teaching continuing education classes for senior citizens."
             ]
         }
-    }
+    ],
+    "licenses_certifications_volunteering": "All entries maintained on LinkedIn Profile."
 }
