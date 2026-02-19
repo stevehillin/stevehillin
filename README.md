@@ -24,3 +24,42 @@ Devops since before devops was a thing, I've worked in various-sized groups in m
 ### Projects
 * <a href="https://responderprep.com" target="_blank">https://responderprep.com</a> - Multi-state quizzes for first responders
 * <a href="https://passguard.services/msp" target="_blank">https://passguard.services/msp</a> - MSP-specific automation tool for password hygiene
+
+# What People Are Saying
+
+---
+
+> "Steve is remarkable. For more than a decade he has assisted me with many projects, and in every instance, he has attacked the tasks at hand with a voracity and skill only possible when backed by astounding knowledge and confidence. No matter what I have required, Steve has been right there ready with the solution or the ability to find it. In every case, Steve has taken my projects and driven them to far greater efficiency and success than I would have expected. I have benefitted in every way from his services."
+>
+> — **D.W.**
+
+---
+
+> "Steve has been pivotal not only in building the tools we needed, but in helping us transform how we think about automation. His depth and breadth of knowledge and '10x' thinking helped us achieve more than we even set out to. I will continue to lean on Steve for not just programming, automation, etc but consulting and creative thinking for right-sized solutions. I have worked with Steve on various projects for several years and will continue to do so as long as I have the option!"
+>
+> — **T.D.**
+
+---
+
+> "I have nothing but great things to say about Steve. He has been a HUGE help in implementing our PBX services globally. His knowledge makes it very easy to work with him. Anytime I had questions about the system he knew right away how to help get it setup to fit our needs. I have also learned a lot by working with Steve since he was willing to share his knowledge anytime I was curious about something. I highly recommend Steve to help with any PBX needs."
+>
+> — **J.M.**
+
+---
+
+> "I cannot express enough how satisfied we are with the outstanding services provided by Steve for our custom Mobile-Friendly application. From start to finish, the experience has been nothing short of exceptional. Steve's expertise and dedication were evident throughout the development process, resulting in a high-quality, user-friendly application that exceeded our expectations. Not only was the project completed ahead of schedule, but the cost also turned out to be a fraction of what we would have paid elsewhere for similar services. The impact of the mobile application on our business operations has been profound. It has significantly improved communication and streamlined repair processes in the field, ultimately leading to substantial savings in both time and money for our company."
+>
+> — **T.E.**
+
+---
+
+> "One of the most technically sound individuals I have worked with."
+>
+> — **L.P.**
+
+---
+
+> "Steve is a great friend and valuable resource to me and my company. I depend on him often for technical advice and real world insight."
+>
+> — **J.S.**
+
